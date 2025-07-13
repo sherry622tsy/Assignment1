@@ -30,6 +30,19 @@ Create a multi-page website using core HTML elements and CSS for styling.
 
 ---
 
+
+Due to GitHub Pages deployment requirements, **Lab 1 (static HTML/CSS site)** is also hosted in a **separate repository**:
+
+**Repo URL:**  
+👉 [https://github.com/sherry622tsy/lab1](https://github.com/sherry622tsy/lab1)
+
+
+#### View Online
+
+This project is deployed via GitHub Pages.  
+**Live site:** [https://sherry622tsy.github.io/lab1/](https://sherry622tsy.github.io/lab1/)
+
+
 ### ⚛️ Programming Lab 2: React App & Routing
 
 **Objective:**  
