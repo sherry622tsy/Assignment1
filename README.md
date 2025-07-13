@@ -90,11 +90,10 @@ Use API calls and React state to build a dynamic Todo List.
 
 > 📌 A 5–7 minute video has been recorded to:
 - Showcase the front-end React app.
-- Walk through the HTML, CSS, and React codebases.
 - Discuss design decisions and development challenges.
 - Reflect on personal strengths and improvement areas in programming, UI, and project management.
 
-🎥 [Link to Video Demo](#) *(replace with actual link)*
+🎥 [Link to Video Demo](#) *(see attached file)*
 
 ---
 
@@ -157,7 +156,7 @@ As part of Milestone 1, the following topics have been addressed in the accompan
 | Todo List with API Logic (Lab 3) | ✅     |
 | Inline Comments in Code          | ✅     |
 | GitHub Repository Uploaded       | ✅     |
-| Video Demonstration              | 🔄 *(to be added)* |
+| Video Demonstration              | ✅     |
 | PDF Reflection Document          | ✅     |
 
 ---
