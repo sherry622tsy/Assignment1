@@ -1,40 +1,39 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f6f8;
-    color: #333;
-  }
-  
-  header {
-    background-color: #009688;
-    padding: 20px;
-    color: white;
-    text-align: center;
-  }
-  
-  nav a {
-    margin: 0 10px;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  nav a:hover {
-    text-decoration: underline;
-  }
-  
-  main {
-    padding: 20px;
-  }
-  
-  footer {
-    background-color: #009688;
-    text-align: center;
-    color: white;
-    padding: 10px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-  }
-  
+  font-family: Arial, sans-serif; /* Sets a clean, modern font for the entire page */
+  margin: 0; /* Removes default browser margin */
+  padding: 0; /* Removes default browser padding */
+  background-color: #f4f6f8; /* Sets a light gray background for the page */
+  color: #333; /* Sets the default text color to dark gray */
+}
+
+header {
+  background-color: #009688; /* Applies a teal background color to the header */
+  padding: 20px; /* Adds space inside the header */
+  color: white; /* Makes header text white for contrast */
+  text-align: center; /* Centers the header text */
+}
+
+nav a {
+  margin: 0 10px; /* Adds horizontal spacing between navigation links */
+  color: white; /* Sets link text color to white */
+  text-decoration: none; /* Removes the underline from links */
+  font-weight: bold; /* Makes the navigation link text bold */
+}
+
+nav a:hover {
+  text-decoration: underline; /* Adds underline on hover for better user feedback */
+}
+
+main {
+  padding: 20px; /* Adds space inside the main content area */
+}
+
+footer {
+  background-color: #009688; /* Matches the header color for consistency */
+  text-align: center; /* Centers footer text */
+  color: white; /* Sets footer text color to white */
+  padding: 10px; /* Adds space inside the footer */
+  position: fixed; /* Fixes the footer to the bottom of the screen */
+  width: 100%; /* Makes the footer span the full width of the page */
+  bottom: 0; /* Positions the footer at the very bottom */
+}
