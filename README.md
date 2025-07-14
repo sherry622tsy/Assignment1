@@ -95,37 +95,9 @@ Use API calls and React state to build a dynamic Todo List.
 - Discuss design decisions and development challenges.
 - Reflect on personal strengths and improvement areas in programming, UI, and project management.
 
-🎥 [Link to Video Demo](#) *(see attached file)*
 
 ---
 
-## 📄 Written Reflection (PDF Submission Summary)
-
-As part of Milestone 1, the following topics have been addressed in the accompanying PDF:
-
-1. **Self-evaluation** in:
-   - Programming: Intermediate
-   - Database Systems: Beginner
-   - User Interface Design: Intermediate
-   - Business Analysis: Intermediate
-   - Project Management: Beginner
-
-2. **Real-world business problem:**
-   > Many users struggle to maintain consistency with daily health tracking. FitTrack addresses this with a simple, focused interface that encourages habit formation through task management and visual reinforcement.
-
-3. **Value creation:**
-   > This project lowers barriers to entry for personal fitness tracking. It promotes usability over complexity, allowing users to focus on behavior, not tools.
-
-4. **Technology trends comparison:**
-   - React-based SPAs dominate front-end frameworks due to reusable components and virtual DOM.
-   - Simple integrations with APIs provide dynamic, real-time experiences without back-end complexity.
-   - The growing trend toward mobile-first and wellness-focused apps justifies the project context.
-
-5. **Capstone project proposals:**
-   - **Option 1:** Scalable version of FitTrack with cloud-hosted back-end and analytics dashboard.
-   - **Option 2:** A meal-logging app that recommends healthy recipes and tracks nutritional intake.
-
----
 
 ## 💻 Repository Access & Deployment
 
